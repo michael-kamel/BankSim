@@ -1,0 +1,8 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\game_Simulation\game_Simulation\bin\Release\game_Simulation.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\game_Simulation\game_Simulation\bin\Release\game_Simulation.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\game_Simulation\game_Simulation\bin\Release\game_Simulation.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\game_Simulation\game_Simulation\obj\Release\game_Simulation.Sim_View.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\game_Simulation\game_Simulation\obj\Release\game_Simulation.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\game_Simulation\game_Simulation\obj\Release\game_Simulation.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\game_Simulation\game_Simulation\obj\Release\game_Simulation.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\game_Simulation\game_Simulation\obj\Release\game_Simulation.pdb
